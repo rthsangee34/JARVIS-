@@ -1,0 +1,6 @@
+{
+  "name": "J.A.R.V.I.S",
+  "description": "Futuristic mobile AI assistant with system voice commands, device automation controls, and interactive holographic interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
